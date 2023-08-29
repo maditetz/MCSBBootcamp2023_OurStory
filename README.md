@@ -1,4 +1,4 @@
-# Foundations of Systems Biology Short Course 2022
+# MCSB Bootcamp 2023
 
 ## Let's write a short story!
 
