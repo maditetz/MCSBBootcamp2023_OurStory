@@ -1,2 +1,2 @@
 #!/bin/bash
-pdflatex main_1FreshPrince.tex;
+pdflatex main.tex;
