@@ -1,2 +1,2 @@
 #!/bin/bash
-pdflatex main.tex;
+pdflatex main_2HockeySweater.tex;
